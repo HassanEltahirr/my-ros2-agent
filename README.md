@@ -3,7 +3,7 @@
 
 ## 🏁 Getting Started
 
-### 1. **Clone the Repo**
+### 1. **Clone the Repo** 
 
 ```sh 
 git clone <your-repo-url>
