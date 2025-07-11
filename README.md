@@ -44,6 +44,9 @@ ros2 run crew_agent manager_node
 ---
 
 ## 🧩 Example Output
+<img width="1520" height="968" alt="image" src="https://github.com/user-attachments/assets/0208fde3-ec96-4f86-8962-9de2232b43fa" />
+<img width="1940" height="988" alt="image" src="https://github.com/user-attachments/assets/aca52433-70b9-445e-97ca-a953272d103f" />
+<img width="2060" height="766" alt="image" src="https://github.com/user-attachments/assets/cb6da1d6-a2be-4f70-ba8c-73165c53ac97" />
 
 ---
 
