@@ -1,0 +1,25 @@
+[0.816s] Invoking command in '/root/ros2_ws/src/crew_agent': PYTHONPATH=/root/ros2_ws/build/crew_agent/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/crew_agent/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/crew_agent build --build-base /root/ros2_ws/build/crew_agent/build install --record /root/ros2_ws/build/crew_agent/install.log --single-version-externally-managed install_data
+[1.098s] running egg_info
+[1.099s] writing ../../build/crew_agent/crew_agent.egg-info/PKG-INFO
+[1.100s] writing dependency_links to ../../build/crew_agent/crew_agent.egg-info/dependency_links.txt
+[1.100s] writing entry points to ../../build/crew_agent/crew_agent.egg-info/entry_points.txt
+[1.101s] writing requirements to ../../build/crew_agent/crew_agent.egg-info/requires.txt
+[1.101s] writing top-level names to ../../build/crew_agent/crew_agent.egg-info/top_level.txt
+[1.105s] reading manifest file '../../build/crew_agent/crew_agent.egg-info/SOURCES.txt'
+[1.106s] writing manifest file '../../build/crew_agent/crew_agent.egg-info/SOURCES.txt'
+[1.107s] running build
+[1.107s] running build_py
+[1.108s] copying crew_agent/crew_agent_node.py -> /root/ros2_ws/build/crew_agent/build/lib/crew_agent
+[1.111s] running install
+[1.112s] running install_lib
+[1.112s] copying /root/ros2_ws/build/crew_agent/build/lib/crew_agent/crew_agent_node.py -> /root/ros2_ws/install/crew_agent/lib/python3.10/site-packages/crew_agent
+[1.115s] byte-compiling /root/ros2_ws/install/crew_agent/lib/python3.10/site-packages/crew_agent/crew_agent_node.py to crew_agent_node.cpython-310.pyc
+[1.119s] running install_data
+[1.121s] running install_egg_info
+[1.121s] removing '/root/ros2_ws/install/crew_agent/lib/python3.10/site-packages/crew_agent-0.0.0-py3.10.egg-info' (and everything under it)
+[1.123s] Copying ../../build/crew_agent/crew_agent.egg-info to /root/ros2_ws/install/crew_agent/lib/python3.10/site-packages/crew_agent-0.0.0-py3.10.egg-info
+[1.133s] running install_scripts
+[1.161s] Installing crew_agent_node script to /root/ros2_ws/install/crew_agent/lib/crew_agent
+[1.162s] Installing manager_node script to /root/ros2_ws/install/crew_agent/lib/crew_agent
+[1.163s] writing list of installed files to '/root/ros2_ws/build/crew_agent/install.log'
+[1.185s] Invoked command in '/root/ros2_ws/src/crew_agent' returned '0': PYTHONPATH=/root/ros2_ws/build/crew_agent/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/crew_agent/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/crew_agent build --build-base /root/ros2_ws/build/crew_agent/build install --record /root/ros2_ws/build/crew_agent/install.log --single-version-externally-managed install_data

@@ -1,0 +1,4 @@
+[console_scripts]
+crew_agent_node = crew_agent.crew_agent_node:main
+manager_node = crew_agent.manager_node:main
+

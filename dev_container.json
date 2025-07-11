@@ -1,0 +1,11 @@
+  "name": "ROS 2 Dev Container",
+  "image": "osrf/ros:humble-desktop",
+  "workspaceFolder": "/root/ros2_ws",
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/root/ros2_ws,type=bind,consistency=cached"
+  ],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "postCreateCommand": "apt update && apt install -y python3-pip && pip3 install crewai"
+
